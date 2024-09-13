@@ -1,51 +1,29 @@
-## H001 👋
+## HI 👋
 
-<!-- Programming Languages -->
-<h3>Programming Languages</h3>
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=hwan001)](https://solved.ac/hwan001/)
+
+---
+
+<h3></h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</div>
-
-<!-- Containerization and Orchestration -->
-<h3>Containerization & Orchestration</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white"/>
-</div>
-
-<!-- Infrastructure as Code (IaC) -->
-<h3>Infrastructure as Code (IaC)</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
-</div>
-
-<!-- Cloud Platforms -->
-<h3>Cloud Platforms</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</div>
-
-<!-- DevOps and Networking Tools -->
-<h3>DevOps & Networking Tools</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/argo-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white"/>
   <img src="https://img.shields.io/badge/awx-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailscale-%23242424.svg?style=for-the-badge&logo=tailscale&logoColor=white"/>
   <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white"/>
   <img src="https://img.shields.io/badge/opentelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white"/>
 </div>
-
-<h3>Blog, Personal server</h3>
-<p>
-  <a href="https://hwan001.co.kr" target="_blank"><img src="https://img.shields.io/badge/Tistory-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-  <a href="https://pve.666lab.org" target="_blank"><img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white"/></a>
-</p>
 
 <!-- 아이콘 : https://simpleicons.org -->
 <!-- 참고 : [https://simpleicons.org/](https://velog.io/@serajang99/GitHub-Overview-%EA%BE%B8%EB%AF%B8%EA%B8%B0) -->
@@ -53,9 +31,6 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![h001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwan001)](https://github.com/anuraghazra/github-readme-stats) --> 
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=hwan001)](https://solved.ac/hwan001/)
-
 
 
 
