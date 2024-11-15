@@ -1,15 +1,13 @@
-
 <div align="left">
   <h2>HI 👋</h2>
   <p>I'm DevOps Engineer in South Korea.</p>
 </div>
-
-<div style="display: flex; justify-content: space-between; align-items: left;">
+<div style="display: flex; justify-content: space-between; align-items: center; box-sizing: content-box;">
   <a align="left" href="https://github-readme-stats.vercel.app/api?username=hwan001">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=hwan001" width="auto" height="260" alt="GitHub Stats">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001" height="260" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001"  width="auto" height="260" alt="Top Languages">
   </a>
 </div>
   
