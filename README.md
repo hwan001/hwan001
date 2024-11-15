@@ -1,9 +1,18 @@
-## HI 👋
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=hwan001)](https://solved.ac/hwan001/)
+<div align="left">
+  <h2>HI 👋</h2>
+  <p>I'm DevOps Engineer in South Korea.</p>
+</div>
 
----
-
+<div style="display: flex; justify-content: space-between; align-items: left;">
+  <a align="left" href="https://github-readme-stats.vercel.app/api?username=hwan001">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hwan001" height="260" alt="GitHub Stats">
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001" height="260" alt="Top Languages">
+  </a>
+</div>
+  
 <h3></h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -27,18 +36,20 @@
 
 <!-- 아이콘 : https://simpleicons.org -->
 <!-- 참고 : [https://simpleicons.org/](https://velog.io/@serajang99/GitHub-Overview-%EA%BE%B8%EB%AF%B8%EA%B8%B0) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001)](https://github.com/anuraghazra/github-readme-stats) --> 
+<!-- [![h001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwan001)](https://github.com/anuraghazra/github-readme-stats) --> 
+<!-- [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=hwan001)](https://solved.ac/hwan001/) -->
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![h001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwan001)](https://github.com/anuraghazra/github-readme-stats) --> 
 
+<a align="left" href="https://github-readme-stats.vercel.app/api?username=hwan001">
+  <img align="left" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hwan001"alt="GitHub Stats">
+</a>
 
-<p align="center"> 
-  Visitor count<br>
-  <a href="#"><img src="https://profile-counter.glitch.me/hwan001/count.svg"/></a>
+<br><h3 align="center">The number of visitors</h3>
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/hwan001/count.svg"/>
 </p>
-
-
 
 <!--
 **hwan001/hwan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
