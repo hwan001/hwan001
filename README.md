@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: left;">
   <a align="left" href="https://github-readme-stats.vercel.app/api?username=hwan001">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hwan001" height="260" alt="GitHub Stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hwan001" width="auto" height="260" alt="GitHub Stats">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001" height="260" alt="Top Languages">
