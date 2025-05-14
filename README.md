@@ -1,17 +1,19 @@
 <div align="left">
   <h2>HI 👋</h2>
-  <p>I'm DevOps Engineer in South Korea.</p>
+  <p>I'm a DevOps engineer in South Korea.</p>
 </div>
+
 <div style="display: flex; justify-content: space-between; align-items: center; box-sizing: content-box;">
-  <a align="left" href="https://github-readme-stats.vercel.app/api?username=hwan001">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hwan001" width="auto" height="260" alt="GitHub Stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=hwan001">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hwan001" width="60%" height="260" alt="GitHub Stats">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan001"  width="auto" height="260" alt="Top Languages">
   </a>
 </div>
-  
-<h3></h3>
+
+---
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
