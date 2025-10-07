@@ -1,5 +1,8 @@
 <div align="left">
-  <h2>HI 👋</h2>
+  <h2>
+    HI 👋 
+    <img align="right" src="https://komarev.com/ghpvc/?username=hwan001"/>
+  </h2> 
   <p>I'm a DevOps engineer in South Korea.</p>
 </div>
 
@@ -45,11 +48,6 @@
 <a align="left" href="https://github-readme-stats.vercel.app/api?username=hwan001">
   <img align="left" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hwan001"alt="GitHub Stats">
 </a>
-
-<br><h3 align="center">The number of visitors</h3>
-<p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/hwan001/count.svg"/>
-</p>
 
 <!--
 **hwan001/hwan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
